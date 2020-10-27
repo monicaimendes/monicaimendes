@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ... <img height="22" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png">
 <!--
 **MonicaIacy/MonicaIacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
