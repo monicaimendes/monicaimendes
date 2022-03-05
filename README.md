@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ... <img height="22" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png">
+🌱 I’m currently learning JavaScript, HTML and CSS 😄
+
+<img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="monicaiacy-css" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+<img align="center" alt="monicaiacy-html" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+
+
+
 <!--
 **MonicaIacy/MonicaIacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
