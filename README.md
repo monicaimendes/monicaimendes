@@ -2,10 +2,11 @@
 
 🌱 I’m currently learning JavaScript, HTML and CSS 😄
 
-<img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="monicaiacy-css" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt="monicaiacy-html" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-
+<div display="flex">
+  <img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="monicaiacy-html" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="monicaiacy-css" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+</div>
 
 
 <!--
