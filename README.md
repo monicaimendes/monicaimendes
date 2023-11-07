@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🌱 I’m currently learning JavaScript, HTML and CSS 😄
+🌱 I’m currently working with Python, Requests library, Selenium and AWS 😄
 
 <div display="flex">
-  <img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="monicaiacy-html" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="monicaiacy-css" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="monicaiacy-html" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="monicaiacy-css" height="70" width="70" src="https://github.com/weibeld/aws-icons-svg/blob/main/misc/aws/AWS_80.svg">
 </div>
 
 
