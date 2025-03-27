@@ -11,7 +11,7 @@ I am highly **detail-oriented**, possess **strong logical thinking**, and value 
 ## 🛠️ Tech Stack  
 
 🔹 **Languages:** Python, JavaScript, HTML, SQL  
-🔹 **Frameworks:** Flask
+🔹 **Frameworks:** Flask  
 🔹 **Automation & Web Crawling:** Selenium, Playwright, BeautifulSoup  
 🔹 **Data Processing:** Pandas, LXML, XPath, JSON, XML, CSV  
 🔹 **Cloud & DevOps:** AWS (S3, SQS, Lambda, DynamoDB, CloudWatch)  
@@ -27,6 +27,11 @@ I am highly **detail-oriented**, possess **strong logical thinking**, and value 
 🔹 Deploy, maintain, and monitor solutions with **AWS services**  
 🔹 Work with **API integrations** (internal & external)
 
+## ✏️ Example Projects
+
+🔹 [nfse-crawler](https://github.com/monicaimendes/nfse-crawler)
+🔹 [finance](https://github.com/monicaimendes/finance)
+🔹 [la-vie](https://github.com/monicaimendes/la-vie)
 
 ## 📫 Get in Touch  
 
