@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently working with Python, Requests library, Selenium and AWS 😄
+🌱 I’m currently working with Python, Selenium and AWS 😄
 
 <div display="flex">
   <img align="center" alt="monicaiacy-js" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
